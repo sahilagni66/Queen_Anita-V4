@@ -1,12 +1,12 @@
 global.owner = [
-  "2347043759577",
+  "919517641203",
   ""
 ]
-global.anitav4 = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.ownername = "David Cyril"
-global.packname = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.author = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
-global.channelname = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
+global.anitav4 = "Fꫀׁׅܻᥣׁׅ֪ꪱׁׅ᥊ׁׅ"
+global.ownername = "Shׁׅ֮ɑׁׅ֮hׁׅ֮ꭈׁׅυׁׅƙׁׅ֑hׁׅ֮ Khׁׅ֮ɑׁׅ֮ꪀׁׅ "
+global.packname = "Fꫀׁׅܻᥣׁׅ֪ꪱׁׅ᥊ׁׅ"
+global.author = "Fꫀׁׅܻᥣׁׅ֪ꪱׁׅ᥊ׁׅ"
+global.channelname = "Fꫀׁׅܻᥣׁׅ֪ꪱׁׅ᥊ׁׅ"
 global.channeljid = "120363315231436175@newsletter"
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
